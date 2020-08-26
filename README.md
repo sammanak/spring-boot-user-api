@@ -1,1 +1,1 @@
-# spring-user-api
+# spring-boot-user-api
